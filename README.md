@@ -73,7 +73,7 @@ After digging through the data, a clear narrative emerged about Netflix's strate
 
 Curious to explore the data yourself? Here’s how:
 
-1.  Clone the repository: `git clone https://github.com/Adityamishra9027/Netflix-Content-Strategy-Analysis/.git`
+1.  Clone the repository: `git clone https://github.com/Adityamishra9027/Netflix-Content-Strategy-Analysis`
 2.  Install the essentials: `pip install pandas seaborn matplotlib`
 3.  Fire up the `The_Netflix_Content_EDA.ipynb` file in Jupyter Notebook.
 4.  Run the cells and see the story unfold!
