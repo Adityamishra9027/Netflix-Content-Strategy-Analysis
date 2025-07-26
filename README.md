@@ -9,7 +9,7 @@ This project started with a simple curiosity: What makes Netflix tick? I wanted 
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * **Python** for the core analysis.
 * **Pandas** for data manipulation and cleaning – the real heavy lifting.
@@ -18,7 +18,7 @@ This project started with a simple curiosity: What makes Netflix tick? I wanted 
 
 ---
 
-## 🔍 The Questions I Explored
+##  The Questions I Explored
 
 I framed my analysis around 10 key questions to really get under the hood of their strategy:
 
@@ -35,7 +35,7 @@ I framed my analysis around 10 key questions to really get under the hood of the
 
 ---
 
-## 💡 Key Findings & Insights
+##  Key Findings & Insights
 
 After digging through the data, a clear narrative emerged about Netflix's strategy:
 
@@ -51,7 +51,7 @@ After digging through the data, a clear narrative emerged about Netflix's strate
 
 ---
 
-## 📊 Key Visualizations
+##  Key Visualizations
 
 *A few charts that capture the essence of the story:*
 
@@ -69,7 +69,7 @@ After digging through the data, a clear narrative emerged about Netflix's strate
 
 ---
 
-## 🚀 How to Run this Project
+##  How to Run this Project
 
 Curious to explore the data yourself? Here’s how:
 
@@ -80,7 +80,7 @@ Curious to explore the data yourself? Here’s how:
 
 ---
 
-## ✍️ About Me
+##  About Me
 
 * **[Aditya Mishra]**
 * **LinkedIn:** [https://www.linkedin.com/in/aditya-mishra-dev01/]
