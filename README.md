@@ -56,15 +56,15 @@ After digging through the data, a clear narrative emerged about Netflix's strate
 *A few charts that capture the essence of the story:*
 
 **The clear pivot towards a more mature audience over time:**
-*<img width="1152" height="666" alt="Screenshot 2025-07-26 at 8 23 12 PM" src="https://github.com/user-attachments/assets/8382cb7e-032b-4081-8eaa-68cd02b261f9" />*
+*<img width="1152" height="666" alt="Screenshot 2025-07-26 at 8 23 12 PM" src="https://github.com/user-attachments/assets/12752d3a-f041-44e8-a87b-9004accda1ed" />*
 
 
 **The strategic shift from a library of old content to fresh releases:**
-*<img width="1116" height="557" alt="Screenshot 2025-07-26 at 8 22 45 PM" src="https://github.com/user-attachments/assets/027a9296-cba3-4582-8954-a3a2b8b92ccc" />*
+*<img width="1116" height="557" alt="Screenshot 2025-07-26 at 8 22 45 PM" src="https://github.com/user-attachments/assets/3e965406-144c-4c9f-b7c4-cf5fd919e27a" />*
 
 
 **The dominance of single-season TV shows in the catalog:**
-*<img width="1110" height="541" alt="Screenshot 2025-07-26 at 8 23 43 PM" src="https://github.com/user-attachments/assets/496729bb-b154-4058-bc01-836beb2e2dac" />*
+*<img width="1110" height="541" alt="Screenshot 2025-07-26 at 8 23 43 PM" src="https://github.com/user-attachments/assets/545dc57f-a723-4d6c-a011-3942bff283c9" />*
 
 
 ---
