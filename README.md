@@ -1,4 +1,4 @@
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/150px-Netflix_2015_logo.svg.png" alt="Netflix Logo" align="left" width="100px"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Netflix_2015_logo.svg/150px-Netflix_2015_logo.svg.png" alt="Netflix Logo" align="left" width="150px"/>
 
 
 ### Decoding Netflix: A Deep Dive into Content Strategy
