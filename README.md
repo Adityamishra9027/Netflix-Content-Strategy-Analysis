@@ -35,7 +35,7 @@ I framed my analysis around 10 key questions to really get under the hood of the
 
 ---
 
-💡##  Key Findings & Insights
+## 💡 Key Findings & Insights
 
 After digging through the data, a clear narrative emerged about Netflix's strategy:
 
