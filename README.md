@@ -43,7 +43,7 @@ After digging through the data, a clear narrative emerged about Netflix's strate
 
 * **Growing Up with the Audience:** The data shows a significant trend towards **'Mature' rated content**, suggesting a strategic focus on an older, more adult demographic.
 
-* **A Global, Yet Specialized, Approach:** Netflix isn't just a US company. **India** is a powerhouse for `Dramas`, the **UK** for `British TV Shows`, and **Japan** is the undisputed leader in `Anime`, showing a smart strategy of leveraging global strengths.
+* **A Global, Yet Specialized, Approach:** Netflix isn't just a US company. **India** is a powerhouse for `Dramas`, the **UK** for `British TV Shows`, and **Japan** is the undisputed leader in `Anime`, showing a smart strategy of leveraging global strengths. 
 
 * **The "Test and Renew" Model for TV:** A massive number of TV shows on the platform only last for **one season**. This points to a strategy of producing many pilot seasons to test the waters, and only renewing the clear winners.
 
